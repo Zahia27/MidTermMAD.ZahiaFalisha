@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MidTerm</string>
+    <string name="hint_student_name">Enter Student Name</string>
+    <string name="hint_student_id">Enter Student ID</string>
+    <string name="has_enrolled">Has Enrolled</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_view">Refresh / View</string>
+    <string name="btn_edit">Update</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_clear">Clear</string>
+    <string name="section_form">Student Data Input</string>
+    <string name="edit_form_title">Edit Student Data (ID: %1$s)</string>
+    <string name="section_list">Student List</string>
+    <string name="list_title_count">Student List (%1$d)</string>
+</resources>
